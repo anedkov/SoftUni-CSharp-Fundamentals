@@ -1,0 +1,7 @@
+C:\Users\Atanas\source\repos\FirstStepsInCoding1\IfandElseSoftUniPart2\bin\Debug\IfandElseSoftUniPart2.exe.config
+C:\Users\Atanas\source\repos\FirstStepsInCoding1\IfandElseSoftUniPart2\bin\Debug\IfandElseSoftUniPart2.exe
+C:\Users\Atanas\source\repos\FirstStepsInCoding1\IfandElseSoftUniPart2\bin\Debug\IfandElseSoftUniPart2.pdb
+C:\Users\Atanas\source\repos\FirstStepsInCoding1\IfandElseSoftUniPart2\obj\Debug\IfandElseSoftUniPart2.csprojAssemblyReference.cache
+C:\Users\Atanas\source\repos\FirstStepsInCoding1\IfandElseSoftUniPart2\obj\Debug\IfandElseSoftUniPart2.csproj.CoreCompileInputs.cache
+C:\Users\Atanas\source\repos\FirstStepsInCoding1\IfandElseSoftUniPart2\obj\Debug\IfandElseSoftUniPart2.exe
+C:\Users\Atanas\source\repos\FirstStepsInCoding1\IfandElseSoftUniPart2\obj\Debug\IfandElseSoftUniPart2.pdb

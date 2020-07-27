@@ -1,0 +1,7 @@
+C:\Users\Atanas\source\repos\FirstStepsInCoding1\LastIfAndElseExercise\bin\Debug\LastIfAndElseExercise.exe.config
+C:\Users\Atanas\source\repos\FirstStepsInCoding1\LastIfAndElseExercise\bin\Debug\LastIfAndElseExercise.exe
+C:\Users\Atanas\source\repos\FirstStepsInCoding1\LastIfAndElseExercise\bin\Debug\LastIfAndElseExercise.pdb
+C:\Users\Atanas\source\repos\FirstStepsInCoding1\LastIfAndElseExercise\obj\Debug\LastIfAndElseExercise.csprojAssemblyReference.cache
+C:\Users\Atanas\source\repos\FirstStepsInCoding1\LastIfAndElseExercise\obj\Debug\LastIfAndElseExercise.csproj.CoreCompileInputs.cache
+C:\Users\Atanas\source\repos\FirstStepsInCoding1\LastIfAndElseExercise\obj\Debug\LastIfAndElseExercise.exe
+C:\Users\Atanas\source\repos\FirstStepsInCoding1\LastIfAndElseExercise\obj\Debug\LastIfAndElseExercise.pdb

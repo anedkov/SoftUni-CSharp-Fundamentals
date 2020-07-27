@@ -1,0 +1,7 @@
+C:\Users\Atanas\source\repos\FirstStepsInCoding1\IfAndElseSoftUni\bin\Debug\IfAndElseSoftUni.exe.config
+C:\Users\Atanas\source\repos\FirstStepsInCoding1\IfAndElseSoftUni\bin\Debug\IfAndElseSoftUni.exe
+C:\Users\Atanas\source\repos\FirstStepsInCoding1\IfAndElseSoftUni\bin\Debug\IfAndElseSoftUni.pdb
+C:\Users\Atanas\source\repos\FirstStepsInCoding1\IfAndElseSoftUni\obj\Debug\IfAndElseSoftUni.csprojAssemblyReference.cache
+C:\Users\Atanas\source\repos\FirstStepsInCoding1\IfAndElseSoftUni\obj\Debug\IfAndElseSoftUni.csproj.CoreCompileInputs.cache
+C:\Users\Atanas\source\repos\FirstStepsInCoding1\IfAndElseSoftUni\obj\Debug\IfAndElseSoftUni.exe
+C:\Users\Atanas\source\repos\FirstStepsInCoding1\IfAndElseSoftUni\obj\Debug\IfAndElseSoftUni.pdb

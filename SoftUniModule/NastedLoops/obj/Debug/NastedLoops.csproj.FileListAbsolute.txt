@@ -1,0 +1,7 @@
+C:\Users\Atanas\source\repos\FirstStepsInCoding1\NastedLoops\bin\Debug\NastedLoops.exe.config
+C:\Users\Atanas\source\repos\FirstStepsInCoding1\NastedLoops\bin\Debug\NastedLoops.exe
+C:\Users\Atanas\source\repos\FirstStepsInCoding1\NastedLoops\bin\Debug\NastedLoops.pdb
+C:\Users\Atanas\source\repos\FirstStepsInCoding1\NastedLoops\obj\Debug\NastedLoops.csprojAssemblyReference.cache
+C:\Users\Atanas\source\repos\FirstStepsInCoding1\NastedLoops\obj\Debug\NastedLoops.csproj.CoreCompileInputs.cache
+C:\Users\Atanas\source\repos\FirstStepsInCoding1\NastedLoops\obj\Debug\NastedLoops.exe
+C:\Users\Atanas\source\repos\FirstStepsInCoding1\NastedLoops\obj\Debug\NastedLoops.pdb

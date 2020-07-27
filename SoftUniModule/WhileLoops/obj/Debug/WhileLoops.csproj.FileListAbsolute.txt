@@ -1,0 +1,7 @@
+C:\Users\Atanas\source\repos\FirstStepsInCoding1\WhileLoops\bin\Debug\WhileLoops.exe.config
+C:\Users\Atanas\source\repos\FirstStepsInCoding1\WhileLoops\bin\Debug\WhileLoops.exe
+C:\Users\Atanas\source\repos\FirstStepsInCoding1\WhileLoops\bin\Debug\WhileLoops.pdb
+C:\Users\Atanas\source\repos\FirstStepsInCoding1\WhileLoops\obj\Debug\WhileLoops.csprojAssemblyReference.cache
+C:\Users\Atanas\source\repos\FirstStepsInCoding1\WhileLoops\obj\Debug\WhileLoops.csproj.CoreCompileInputs.cache
+C:\Users\Atanas\source\repos\FirstStepsInCoding1\WhileLoops\obj\Debug\WhileLoops.exe
+C:\Users\Atanas\source\repos\FirstStepsInCoding1\WhileLoops\obj\Debug\WhileLoops.pdb

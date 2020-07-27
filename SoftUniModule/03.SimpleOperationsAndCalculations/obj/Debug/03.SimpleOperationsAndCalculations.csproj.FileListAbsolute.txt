@@ -1,0 +1,7 @@
+C:\Users\Atanas\source\repos\FirstStepsInCoding1\03.SimpleOperationsAndCalculations\bin\Debug\03.SimpleOperationsAndCalculations.exe.config
+C:\Users\Atanas\source\repos\FirstStepsInCoding1\03.SimpleOperationsAndCalculations\bin\Debug\03.SimpleOperationsAndCalculations.exe
+C:\Users\Atanas\source\repos\FirstStepsInCoding1\03.SimpleOperationsAndCalculations\bin\Debug\03.SimpleOperationsAndCalculations.pdb
+C:\Users\Atanas\source\repos\FirstStepsInCoding1\03.SimpleOperationsAndCalculations\obj\Debug\03.SimpleOperationsAndCalculations.csprojAssemblyReference.cache
+C:\Users\Atanas\source\repos\FirstStepsInCoding1\03.SimpleOperationsAndCalculations\obj\Debug\03.SimpleOperationsAndCalculations.csproj.CoreCompileInputs.cache
+C:\Users\Atanas\source\repos\FirstStepsInCoding1\03.SimpleOperationsAndCalculations\obj\Debug\03.SimpleOperationsAndCalculations.exe
+C:\Users\Atanas\source\repos\FirstStepsInCoding1\03.SimpleOperationsAndCalculations\obj\Debug\03.SimpleOperationsAndCalculations.pdb
