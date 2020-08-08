@@ -1,0 +1,13 @@
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\MethodsMoreExercises\bin\Debug\netcoreapp3.1\MethodsMoreExercises.exe
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\MethodsMoreExercises\bin\Debug\netcoreapp3.1\MethodsMoreExercises.deps.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\MethodsMoreExercises\bin\Debug\netcoreapp3.1\MethodsMoreExercises.runtimeconfig.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\MethodsMoreExercises\bin\Debug\netcoreapp3.1\MethodsMoreExercises.runtimeconfig.dev.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\MethodsMoreExercises\bin\Debug\netcoreapp3.1\MethodsMoreExercises.dll
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\MethodsMoreExercises\bin\Debug\netcoreapp3.1\MethodsMoreExercises.pdb
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\MethodsMoreExercises\obj\Debug\netcoreapp3.1\MethodsMoreExercises.csprojAssemblyReference.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\MethodsMoreExercises\obj\Debug\netcoreapp3.1\MethodsMoreExercises.AssemblyInfoInputs.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\MethodsMoreExercises\obj\Debug\netcoreapp3.1\MethodsMoreExercises.AssemblyInfo.cs
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\MethodsMoreExercises\obj\Debug\netcoreapp3.1\MethodsMoreExercises.csproj.CoreCompileInputs.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\MethodsMoreExercises\obj\Debug\netcoreapp3.1\MethodsMoreExercises.dll
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\MethodsMoreExercises\obj\Debug\netcoreapp3.1\MethodsMoreExercises.pdb
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\MethodsMoreExercises\obj\Debug\netcoreapp3.1\MethodsMoreExercises.genruntimeconfig.cache
