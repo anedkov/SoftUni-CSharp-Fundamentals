@@ -1,0 +1,13 @@
+C:\Users\wishj\source\repos\Exercise-Lists\3.House-Party\bin\Debug\netcoreapp3.1\3.House-Party.exe
+C:\Users\wishj\source\repos\Exercise-Lists\3.House-Party\bin\Debug\netcoreapp3.1\3.House-Party.deps.json
+C:\Users\wishj\source\repos\Exercise-Lists\3.House-Party\bin\Debug\netcoreapp3.1\3.House-Party.runtimeconfig.json
+C:\Users\wishj\source\repos\Exercise-Lists\3.House-Party\bin\Debug\netcoreapp3.1\3.House-Party.runtimeconfig.dev.json
+C:\Users\wishj\source\repos\Exercise-Lists\3.House-Party\bin\Debug\netcoreapp3.1\3.House-Party.dll
+C:\Users\wishj\source\repos\Exercise-Lists\3.House-Party\bin\Debug\netcoreapp3.1\3.House-Party.pdb
+C:\Users\wishj\source\repos\Exercise-Lists\3.House-Party\obj\Debug\netcoreapp3.1\3.House-Party.csprojAssemblyReference.cache
+C:\Users\wishj\source\repos\Exercise-Lists\3.House-Party\obj\Debug\netcoreapp3.1\3.House-Party.AssemblyInfoInputs.cache
+C:\Users\wishj\source\repos\Exercise-Lists\3.House-Party\obj\Debug\netcoreapp3.1\3.House-Party.AssemblyInfo.cs
+C:\Users\wishj\source\repos\Exercise-Lists\3.House-Party\obj\Debug\netcoreapp3.1\3.House-Party.csproj.CoreCompileInputs.cache
+C:\Users\wishj\source\repos\Exercise-Lists\3.House-Party\obj\Debug\netcoreapp3.1\3.House-Party.dll
+C:\Users\wishj\source\repos\Exercise-Lists\3.House-Party\obj\Debug\netcoreapp3.1\3.House-Party.pdb
+C:\Users\wishj\source\repos\Exercise-Lists\3.House-Party\obj\Debug\netcoreapp3.1\3.House-Party.genruntimeconfig.cache

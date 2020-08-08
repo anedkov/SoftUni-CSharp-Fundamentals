@@ -1,0 +1,12 @@
+C:\Users\wishj\source\repos\Loops\Even-Or-Odd-Positions\bin\Debug\netcoreapp3.1\Even-Or-Odd-Positions.exe
+C:\Users\wishj\source\repos\Loops\Even-Or-Odd-Positions\bin\Debug\netcoreapp3.1\Even-Or-Odd-Positions.deps.json
+C:\Users\wishj\source\repos\Loops\Even-Or-Odd-Positions\bin\Debug\netcoreapp3.1\Even-Or-Odd-Positions.runtimeconfig.json
+C:\Users\wishj\source\repos\Loops\Even-Or-Odd-Positions\bin\Debug\netcoreapp3.1\Even-Or-Odd-Positions.runtimeconfig.dev.json
+C:\Users\wishj\source\repos\Loops\Even-Or-Odd-Positions\bin\Debug\netcoreapp3.1\Even-Or-Odd-Positions.dll
+C:\Users\wishj\source\repos\Loops\Even-Or-Odd-Positions\bin\Debug\netcoreapp3.1\Even-Or-Odd-Positions.pdb
+C:\Users\wishj\source\repos\Loops\Even-Or-Odd-Positions\obj\Debug\netcoreapp3.1\Even-Or-Odd-Positions.AssemblyInfoInputs.cache
+C:\Users\wishj\source\repos\Loops\Even-Or-Odd-Positions\obj\Debug\netcoreapp3.1\Even-Or-Odd-Positions.AssemblyInfo.cs
+C:\Users\wishj\source\repos\Loops\Even-Or-Odd-Positions\obj\Debug\netcoreapp3.1\Even-Or-Odd-Positions.csproj.CoreCompileInputs.cache
+C:\Users\wishj\source\repos\Loops\Even-Or-Odd-Positions\obj\Debug\netcoreapp3.1\Even-Or-Odd-Positions.dll
+C:\Users\wishj\source\repos\Loops\Even-Or-Odd-Positions\obj\Debug\netcoreapp3.1\Even-Or-Odd-Positions.pdb
+C:\Users\wishj\source\repos\Loops\Even-Or-Odd-Positions\obj\Debug\netcoreapp3.1\Even-Or-Odd-Positions.genruntimeconfig.cache

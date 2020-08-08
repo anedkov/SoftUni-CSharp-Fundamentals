@@ -1,0 +1,12 @@
+C:\Users\wishj\source\repos\Loops\05.Stream-Of-Characters\bin\Debug\netcoreapp3.1\05.Stream-Of-Characters.exe
+C:\Users\wishj\source\repos\Loops\05.Stream-Of-Characters\bin\Debug\netcoreapp3.1\05.Stream-Of-Characters.deps.json
+C:\Users\wishj\source\repos\Loops\05.Stream-Of-Characters\bin\Debug\netcoreapp3.1\05.Stream-Of-Characters.runtimeconfig.json
+C:\Users\wishj\source\repos\Loops\05.Stream-Of-Characters\bin\Debug\netcoreapp3.1\05.Stream-Of-Characters.runtimeconfig.dev.json
+C:\Users\wishj\source\repos\Loops\05.Stream-Of-Characters\bin\Debug\netcoreapp3.1\05.Stream-Of-Characters.dll
+C:\Users\wishj\source\repos\Loops\05.Stream-Of-Characters\bin\Debug\netcoreapp3.1\05.Stream-Of-Characters.pdb
+C:\Users\wishj\source\repos\Loops\05.Stream-Of-Characters\obj\Debug\netcoreapp3.1\05.Stream-Of-Characters.AssemblyInfoInputs.cache
+C:\Users\wishj\source\repos\Loops\05.Stream-Of-Characters\obj\Debug\netcoreapp3.1\05.Stream-Of-Characters.AssemblyInfo.cs
+C:\Users\wishj\source\repos\Loops\05.Stream-Of-Characters\obj\Debug\netcoreapp3.1\05.Stream-Of-Characters.csproj.CoreCompileInputs.cache
+C:\Users\wishj\source\repos\Loops\05.Stream-Of-Characters\obj\Debug\netcoreapp3.1\05.Stream-Of-Characters.dll
+C:\Users\wishj\source\repos\Loops\05.Stream-Of-Characters\obj\Debug\netcoreapp3.1\05.Stream-Of-Characters.pdb
+C:\Users\wishj\source\repos\Loops\05.Stream-Of-Characters\obj\Debug\netcoreapp3.1\05.Stream-Of-Characters.genruntimeconfig.cache

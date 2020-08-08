@@ -1,0 +1,12 @@
+C:\Users\wishj\source\repos\NastedLoops\Special-Numbers\bin\Debug\netcoreapp3.1\Special-Numbers.exe
+C:\Users\wishj\source\repos\NastedLoops\Special-Numbers\bin\Debug\netcoreapp3.1\Special-Numbers.deps.json
+C:\Users\wishj\source\repos\NastedLoops\Special-Numbers\bin\Debug\netcoreapp3.1\Special-Numbers.runtimeconfig.json
+C:\Users\wishj\source\repos\NastedLoops\Special-Numbers\bin\Debug\netcoreapp3.1\Special-Numbers.runtimeconfig.dev.json
+C:\Users\wishj\source\repos\NastedLoops\Special-Numbers\bin\Debug\netcoreapp3.1\Special-Numbers.dll
+C:\Users\wishj\source\repos\NastedLoops\Special-Numbers\bin\Debug\netcoreapp3.1\Special-Numbers.pdb
+C:\Users\wishj\source\repos\NastedLoops\Special-Numbers\obj\Debug\netcoreapp3.1\Special-Numbers.AssemblyInfoInputs.cache
+C:\Users\wishj\source\repos\NastedLoops\Special-Numbers\obj\Debug\netcoreapp3.1\Special-Numbers.AssemblyInfo.cs
+C:\Users\wishj\source\repos\NastedLoops\Special-Numbers\obj\Debug\netcoreapp3.1\Special-Numbers.csproj.CoreCompileInputs.cache
+C:\Users\wishj\source\repos\NastedLoops\Special-Numbers\obj\Debug\netcoreapp3.1\Special-Numbers.dll
+C:\Users\wishj\source\repos\NastedLoops\Special-Numbers\obj\Debug\netcoreapp3.1\Special-Numbers.pdb
+C:\Users\wishj\source\repos\NastedLoops\Special-Numbers\obj\Debug\netcoreapp3.1\Special-Numbers.genruntimeconfig.cache

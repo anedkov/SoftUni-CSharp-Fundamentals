@@ -1,0 +1,13 @@
+C:\Users\wishj\source\repos\Loops\08.Order-Of-Integers\bin\Debug\netcoreapp3.1\08.Order-Of-Integers.exe
+C:\Users\wishj\source\repos\Loops\08.Order-Of-Integers\bin\Debug\netcoreapp3.1\08.Order-Of-Integers.deps.json
+C:\Users\wishj\source\repos\Loops\08.Order-Of-Integers\bin\Debug\netcoreapp3.1\08.Order-Of-Integers.runtimeconfig.json
+C:\Users\wishj\source\repos\Loops\08.Order-Of-Integers\bin\Debug\netcoreapp3.1\08.Order-Of-Integers.runtimeconfig.dev.json
+C:\Users\wishj\source\repos\Loops\08.Order-Of-Integers\bin\Debug\netcoreapp3.1\08.Order-Of-Integers.dll
+C:\Users\wishj\source\repos\Loops\08.Order-Of-Integers\bin\Debug\netcoreapp3.1\08.Order-Of-Integers.pdb
+C:\Users\wishj\source\repos\Loops\08.Order-Of-Integers\obj\Debug\netcoreapp3.1\08.Order-Of-Integers.csprojAssemblyReference.cache
+C:\Users\wishj\source\repos\Loops\08.Order-Of-Integers\obj\Debug\netcoreapp3.1\08.Order-Of-Integers.AssemblyInfoInputs.cache
+C:\Users\wishj\source\repos\Loops\08.Order-Of-Integers\obj\Debug\netcoreapp3.1\08.Order-Of-Integers.AssemblyInfo.cs
+C:\Users\wishj\source\repos\Loops\08.Order-Of-Integers\obj\Debug\netcoreapp3.1\08.Order-Of-Integers.csproj.CoreCompileInputs.cache
+C:\Users\wishj\source\repos\Loops\08.Order-Of-Integers\obj\Debug\netcoreapp3.1\08.Order-Of-Integers.dll
+C:\Users\wishj\source\repos\Loops\08.Order-Of-Integers\obj\Debug\netcoreapp3.1\08.Order-Of-Integers.pdb
+C:\Users\wishj\source\repos\Loops\08.Order-Of-Integers\obj\Debug\netcoreapp3.1\08.Order-Of-Integers.genruntimeconfig.cache

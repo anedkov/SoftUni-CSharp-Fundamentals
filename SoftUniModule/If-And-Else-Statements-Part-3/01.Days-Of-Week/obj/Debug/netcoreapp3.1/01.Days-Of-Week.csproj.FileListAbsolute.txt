@@ -1,0 +1,12 @@
+C:\Users\wishj\source\repos\If-And-Else-Statements-Part-3\01.Days-Of-Week\bin\Debug\netcoreapp3.1\01.Days-Of-Week.exe
+C:\Users\wishj\source\repos\If-And-Else-Statements-Part-3\01.Days-Of-Week\bin\Debug\netcoreapp3.1\01.Days-Of-Week.deps.json
+C:\Users\wishj\source\repos\If-And-Else-Statements-Part-3\01.Days-Of-Week\bin\Debug\netcoreapp3.1\01.Days-Of-Week.runtimeconfig.json
+C:\Users\wishj\source\repos\If-And-Else-Statements-Part-3\01.Days-Of-Week\bin\Debug\netcoreapp3.1\01.Days-Of-Week.runtimeconfig.dev.json
+C:\Users\wishj\source\repos\If-And-Else-Statements-Part-3\01.Days-Of-Week\bin\Debug\netcoreapp3.1\01.Days-Of-Week.dll
+C:\Users\wishj\source\repos\If-And-Else-Statements-Part-3\01.Days-Of-Week\bin\Debug\netcoreapp3.1\01.Days-Of-Week.pdb
+C:\Users\wishj\source\repos\If-And-Else-Statements-Part-3\01.Days-Of-Week\obj\Debug\netcoreapp3.1\01.Days-Of-Week.AssemblyInfoInputs.cache
+C:\Users\wishj\source\repos\If-And-Else-Statements-Part-3\01.Days-Of-Week\obj\Debug\netcoreapp3.1\01.Days-Of-Week.AssemblyInfo.cs
+C:\Users\wishj\source\repos\If-And-Else-Statements-Part-3\01.Days-Of-Week\obj\Debug\netcoreapp3.1\01.Days-Of-Week.csproj.CoreCompileInputs.cache
+C:\Users\wishj\source\repos\If-And-Else-Statements-Part-3\01.Days-Of-Week\obj\Debug\netcoreapp3.1\01.Days-Of-Week.dll
+C:\Users\wishj\source\repos\If-And-Else-Statements-Part-3\01.Days-Of-Week\obj\Debug\netcoreapp3.1\01.Days-Of-Week.pdb
+C:\Users\wishj\source\repos\If-And-Else-Statements-Part-3\01.Days-Of-Week\obj\Debug\netcoreapp3.1\01.Days-Of-Week.genruntimeconfig.cache

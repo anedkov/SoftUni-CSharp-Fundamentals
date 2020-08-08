@@ -1,0 +1,13 @@
+C:\Users\wishj\source\repos\Simple-Opearations-And-Calculations\01.Greetings\bin\Debug\netcoreapp3.1\01.Greetings.exe
+C:\Users\wishj\source\repos\Simple-Opearations-And-Calculations\01.Greetings\bin\Debug\netcoreapp3.1\01.Greetings.deps.json
+C:\Users\wishj\source\repos\Simple-Opearations-And-Calculations\01.Greetings\bin\Debug\netcoreapp3.1\01.Greetings.runtimeconfig.json
+C:\Users\wishj\source\repos\Simple-Opearations-And-Calculations\01.Greetings\bin\Debug\netcoreapp3.1\01.Greetings.runtimeconfig.dev.json
+C:\Users\wishj\source\repos\Simple-Opearations-And-Calculations\01.Greetings\bin\Debug\netcoreapp3.1\01.Greetings.dll
+C:\Users\wishj\source\repos\Simple-Opearations-And-Calculations\01.Greetings\bin\Debug\netcoreapp3.1\01.Greetings.pdb
+C:\Users\wishj\source\repos\Simple-Opearations-And-Calculations\01.Greetings\obj\Debug\netcoreapp3.1\01.Greetings.csprojAssemblyReference.cache
+C:\Users\wishj\source\repos\Simple-Opearations-And-Calculations\01.Greetings\obj\Debug\netcoreapp3.1\01.Greetings.AssemblyInfoInputs.cache
+C:\Users\wishj\source\repos\Simple-Opearations-And-Calculations\01.Greetings\obj\Debug\netcoreapp3.1\01.Greetings.AssemblyInfo.cs
+C:\Users\wishj\source\repos\Simple-Opearations-And-Calculations\01.Greetings\obj\Debug\netcoreapp3.1\01.Greetings.csproj.CoreCompileInputs.cache
+C:\Users\wishj\source\repos\Simple-Opearations-And-Calculations\01.Greetings\obj\Debug\netcoreapp3.1\01.Greetings.dll
+C:\Users\wishj\source\repos\Simple-Opearations-And-Calculations\01.Greetings\obj\Debug\netcoreapp3.1\01.Greetings.pdb
+C:\Users\wishj\source\repos\Simple-Opearations-And-Calculations\01.Greetings\obj\Debug\netcoreapp3.1\01.Greetings.genruntimeconfig.cache

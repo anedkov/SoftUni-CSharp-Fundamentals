@@ -1,0 +1,12 @@
+C:\Users\wishj\source\repos\Loops\04.Even-Degrees-On-2\bin\Debug\netcoreapp3.1\04.Even-Degrees-On-2.exe
+C:\Users\wishj\source\repos\Loops\04.Even-Degrees-On-2\bin\Debug\netcoreapp3.1\04.Even-Degrees-On-2.deps.json
+C:\Users\wishj\source\repos\Loops\04.Even-Degrees-On-2\bin\Debug\netcoreapp3.1\04.Even-Degrees-On-2.runtimeconfig.json
+C:\Users\wishj\source\repos\Loops\04.Even-Degrees-On-2\bin\Debug\netcoreapp3.1\04.Even-Degrees-On-2.runtimeconfig.dev.json
+C:\Users\wishj\source\repos\Loops\04.Even-Degrees-On-2\bin\Debug\netcoreapp3.1\04.Even-Degrees-On-2.dll
+C:\Users\wishj\source\repos\Loops\04.Even-Degrees-On-2\bin\Debug\netcoreapp3.1\04.Even-Degrees-On-2.pdb
+C:\Users\wishj\source\repos\Loops\04.Even-Degrees-On-2\obj\Debug\netcoreapp3.1\04.Even-Degrees-On-2.AssemblyInfoInputs.cache
+C:\Users\wishj\source\repos\Loops\04.Even-Degrees-On-2\obj\Debug\netcoreapp3.1\04.Even-Degrees-On-2.AssemblyInfo.cs
+C:\Users\wishj\source\repos\Loops\04.Even-Degrees-On-2\obj\Debug\netcoreapp3.1\04.Even-Degrees-On-2.csproj.CoreCompileInputs.cache
+C:\Users\wishj\source\repos\Loops\04.Even-Degrees-On-2\obj\Debug\netcoreapp3.1\04.Even-Degrees-On-2.dll
+C:\Users\wishj\source\repos\Loops\04.Even-Degrees-On-2\obj\Debug\netcoreapp3.1\04.Even-Degrees-On-2.pdb
+C:\Users\wishj\source\repos\Loops\04.Even-Degrees-On-2\obj\Debug\netcoreapp3.1\04.Even-Degrees-On-2.genruntimeconfig.cache

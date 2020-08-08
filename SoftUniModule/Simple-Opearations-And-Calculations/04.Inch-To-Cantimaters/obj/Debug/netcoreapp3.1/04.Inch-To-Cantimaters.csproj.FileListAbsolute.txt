@@ -1,0 +1,12 @@
+C:\Users\wishj\source\repos\Simple-Opearations-And-Calculations\04.Inch-To-Cantimaters\obj\Debug\netcoreapp3.1\04.Inch-To-Cantimaters.AssemblyInfoInputs.cache
+C:\Users\wishj\source\repos\Simple-Opearations-And-Calculations\04.Inch-To-Cantimaters\obj\Debug\netcoreapp3.1\04.Inch-To-Cantimaters.AssemblyInfo.cs
+C:\Users\wishj\source\repos\Simple-Opearations-And-Calculations\04.Inch-To-Cantimaters\obj\Debug\netcoreapp3.1\04.Inch-To-Cantimaters.csproj.CoreCompileInputs.cache
+C:\Users\wishj\source\repos\Simple-Opearations-And-Calculations\04.Inch-To-Cantimaters\bin\Debug\netcoreapp3.1\04.Inch-To-Cantimaters.exe
+C:\Users\wishj\source\repos\Simple-Opearations-And-Calculations\04.Inch-To-Cantimaters\bin\Debug\netcoreapp3.1\04.Inch-To-Cantimaters.deps.json
+C:\Users\wishj\source\repos\Simple-Opearations-And-Calculations\04.Inch-To-Cantimaters\bin\Debug\netcoreapp3.1\04.Inch-To-Cantimaters.runtimeconfig.json
+C:\Users\wishj\source\repos\Simple-Opearations-And-Calculations\04.Inch-To-Cantimaters\bin\Debug\netcoreapp3.1\04.Inch-To-Cantimaters.runtimeconfig.dev.json
+C:\Users\wishj\source\repos\Simple-Opearations-And-Calculations\04.Inch-To-Cantimaters\bin\Debug\netcoreapp3.1\04.Inch-To-Cantimaters.dll
+C:\Users\wishj\source\repos\Simple-Opearations-And-Calculations\04.Inch-To-Cantimaters\bin\Debug\netcoreapp3.1\04.Inch-To-Cantimaters.pdb
+C:\Users\wishj\source\repos\Simple-Opearations-And-Calculations\04.Inch-To-Cantimaters\obj\Debug\netcoreapp3.1\04.Inch-To-Cantimaters.dll
+C:\Users\wishj\source\repos\Simple-Opearations-And-Calculations\04.Inch-To-Cantimaters\obj\Debug\netcoreapp3.1\04.Inch-To-Cantimaters.pdb
+C:\Users\wishj\source\repos\Simple-Opearations-And-Calculations\04.Inch-To-Cantimaters\obj\Debug\netcoreapp3.1\04.Inch-To-Cantimaters.genruntimeconfig.cache

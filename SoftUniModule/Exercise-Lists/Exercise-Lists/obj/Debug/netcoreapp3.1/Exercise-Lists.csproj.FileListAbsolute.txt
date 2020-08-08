@@ -1,0 +1,13 @@
+C:\Users\wishj\source\repos\Exercise-Lists\Exercise-Lists\bin\Debug\netcoreapp3.1\Exercise-Lists.exe
+C:\Users\wishj\source\repos\Exercise-Lists\Exercise-Lists\bin\Debug\netcoreapp3.1\Exercise-Lists.deps.json
+C:\Users\wishj\source\repos\Exercise-Lists\Exercise-Lists\bin\Debug\netcoreapp3.1\Exercise-Lists.runtimeconfig.json
+C:\Users\wishj\source\repos\Exercise-Lists\Exercise-Lists\bin\Debug\netcoreapp3.1\Exercise-Lists.runtimeconfig.dev.json
+C:\Users\wishj\source\repos\Exercise-Lists\Exercise-Lists\bin\Debug\netcoreapp3.1\Exercise-Lists.dll
+C:\Users\wishj\source\repos\Exercise-Lists\Exercise-Lists\bin\Debug\netcoreapp3.1\Exercise-Lists.pdb
+C:\Users\wishj\source\repos\Exercise-Lists\Exercise-Lists\obj\Debug\netcoreapp3.1\Exercise-Lists.csprojAssemblyReference.cache
+C:\Users\wishj\source\repos\Exercise-Lists\Exercise-Lists\obj\Debug\netcoreapp3.1\Exercise-Lists.AssemblyInfoInputs.cache
+C:\Users\wishj\source\repos\Exercise-Lists\Exercise-Lists\obj\Debug\netcoreapp3.1\Exercise-Lists.AssemblyInfo.cs
+C:\Users\wishj\source\repos\Exercise-Lists\Exercise-Lists\obj\Debug\netcoreapp3.1\Exercise-Lists.csproj.CoreCompileInputs.cache
+C:\Users\wishj\source\repos\Exercise-Lists\Exercise-Lists\obj\Debug\netcoreapp3.1\Exercise-Lists.dll
+C:\Users\wishj\source\repos\Exercise-Lists\Exercise-Lists\obj\Debug\netcoreapp3.1\Exercise-Lists.pdb
+C:\Users\wishj\source\repos\Exercise-Lists\Exercise-Lists\obj\Debug\netcoreapp3.1\Exercise-Lists.genruntimeconfig.cache

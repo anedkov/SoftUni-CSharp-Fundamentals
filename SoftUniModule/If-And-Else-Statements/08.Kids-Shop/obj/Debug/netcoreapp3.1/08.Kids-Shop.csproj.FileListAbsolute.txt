@@ -1,0 +1,13 @@
+C:\Users\wishj\source\repos\If-And-Else-Statements\08.Kids-Shop\bin\Debug\netcoreapp3.1\08.Kids-Shop.exe
+C:\Users\wishj\source\repos\If-And-Else-Statements\08.Kids-Shop\bin\Debug\netcoreapp3.1\08.Kids-Shop.deps.json
+C:\Users\wishj\source\repos\If-And-Else-Statements\08.Kids-Shop\bin\Debug\netcoreapp3.1\08.Kids-Shop.runtimeconfig.json
+C:\Users\wishj\source\repos\If-And-Else-Statements\08.Kids-Shop\bin\Debug\netcoreapp3.1\08.Kids-Shop.runtimeconfig.dev.json
+C:\Users\wishj\source\repos\If-And-Else-Statements\08.Kids-Shop\bin\Debug\netcoreapp3.1\08.Kids-Shop.dll
+C:\Users\wishj\source\repos\If-And-Else-Statements\08.Kids-Shop\bin\Debug\netcoreapp3.1\08.Kids-Shop.pdb
+C:\Users\wishj\source\repos\If-And-Else-Statements\08.Kids-Shop\obj\Debug\netcoreapp3.1\08.Kids-Shop.csprojAssemblyReference.cache
+C:\Users\wishj\source\repos\If-And-Else-Statements\08.Kids-Shop\obj\Debug\netcoreapp3.1\08.Kids-Shop.AssemblyInfoInputs.cache
+C:\Users\wishj\source\repos\If-And-Else-Statements\08.Kids-Shop\obj\Debug\netcoreapp3.1\08.Kids-Shop.AssemblyInfo.cs
+C:\Users\wishj\source\repos\If-And-Else-Statements\08.Kids-Shop\obj\Debug\netcoreapp3.1\08.Kids-Shop.csproj.CoreCompileInputs.cache
+C:\Users\wishj\source\repos\If-And-Else-Statements\08.Kids-Shop\obj\Debug\netcoreapp3.1\08.Kids-Shop.dll
+C:\Users\wishj\source\repos\If-And-Else-Statements\08.Kids-Shop\obj\Debug\netcoreapp3.1\08.Kids-Shop.pdb
+C:\Users\wishj\source\repos\If-And-Else-Statements\08.Kids-Shop\obj\Debug\netcoreapp3.1\08.Kids-Shop.genruntimeconfig.cache

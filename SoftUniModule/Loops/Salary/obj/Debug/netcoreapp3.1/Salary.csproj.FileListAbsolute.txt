@@ -1,0 +1,12 @@
+C:\Users\wishj\source\repos\Loops\Salary\bin\Debug\netcoreapp3.1\Salary.exe
+C:\Users\wishj\source\repos\Loops\Salary\bin\Debug\netcoreapp3.1\Salary.deps.json
+C:\Users\wishj\source\repos\Loops\Salary\bin\Debug\netcoreapp3.1\Salary.runtimeconfig.json
+C:\Users\wishj\source\repos\Loops\Salary\bin\Debug\netcoreapp3.1\Salary.runtimeconfig.dev.json
+C:\Users\wishj\source\repos\Loops\Salary\bin\Debug\netcoreapp3.1\Salary.dll
+C:\Users\wishj\source\repos\Loops\Salary\bin\Debug\netcoreapp3.1\Salary.pdb
+C:\Users\wishj\source\repos\Loops\Salary\obj\Debug\netcoreapp3.1\Salary.AssemblyInfoInputs.cache
+C:\Users\wishj\source\repos\Loops\Salary\obj\Debug\netcoreapp3.1\Salary.AssemblyInfo.cs
+C:\Users\wishj\source\repos\Loops\Salary\obj\Debug\netcoreapp3.1\Salary.csproj.CoreCompileInputs.cache
+C:\Users\wishj\source\repos\Loops\Salary\obj\Debug\netcoreapp3.1\Salary.dll
+C:\Users\wishj\source\repos\Loops\Salary\obj\Debug\netcoreapp3.1\Salary.pdb
+C:\Users\wishj\source\repos\Loops\Salary\obj\Debug\netcoreapp3.1\Salary.genruntimeconfig.cache

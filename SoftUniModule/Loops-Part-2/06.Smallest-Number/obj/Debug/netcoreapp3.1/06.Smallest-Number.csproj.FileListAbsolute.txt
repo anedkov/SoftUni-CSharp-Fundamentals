@@ -1,0 +1,12 @@
+C:\Users\wishj\source\repos\Loops-Part-2\06.Smallest-Number\bin\Debug\netcoreapp3.1\06.Smallest-Number.exe
+C:\Users\wishj\source\repos\Loops-Part-2\06.Smallest-Number\bin\Debug\netcoreapp3.1\06.Smallest-Number.deps.json
+C:\Users\wishj\source\repos\Loops-Part-2\06.Smallest-Number\bin\Debug\netcoreapp3.1\06.Smallest-Number.runtimeconfig.json
+C:\Users\wishj\source\repos\Loops-Part-2\06.Smallest-Number\bin\Debug\netcoreapp3.1\06.Smallest-Number.runtimeconfig.dev.json
+C:\Users\wishj\source\repos\Loops-Part-2\06.Smallest-Number\bin\Debug\netcoreapp3.1\06.Smallest-Number.dll
+C:\Users\wishj\source\repos\Loops-Part-2\06.Smallest-Number\bin\Debug\netcoreapp3.1\06.Smallest-Number.pdb
+C:\Users\wishj\source\repos\Loops-Part-2\06.Smallest-Number\obj\Debug\netcoreapp3.1\06.Smallest-Number.AssemblyInfoInputs.cache
+C:\Users\wishj\source\repos\Loops-Part-2\06.Smallest-Number\obj\Debug\netcoreapp3.1\06.Smallest-Number.AssemblyInfo.cs
+C:\Users\wishj\source\repos\Loops-Part-2\06.Smallest-Number\obj\Debug\netcoreapp3.1\06.Smallest-Number.csproj.CoreCompileInputs.cache
+C:\Users\wishj\source\repos\Loops-Part-2\06.Smallest-Number\obj\Debug\netcoreapp3.1\06.Smallest-Number.dll
+C:\Users\wishj\source\repos\Loops-Part-2\06.Smallest-Number\obj\Debug\netcoreapp3.1\06.Smallest-Number.pdb
+C:\Users\wishj\source\repos\Loops-Part-2\06.Smallest-Number\obj\Debug\netcoreapp3.1\06.Smallest-Number.genruntimeconfig.cache

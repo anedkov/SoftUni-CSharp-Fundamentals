@@ -1,0 +1,12 @@
+C:\Users\wishj\source\repos\Simple-Opearations-And-Calculations\04.Inch-To-Centimeters-Converter\bin\Debug\netcoreapp3.1\04.Inch-To-Centimeters-Converter.exe
+C:\Users\wishj\source\repos\Simple-Opearations-And-Calculations\04.Inch-To-Centimeters-Converter\bin\Debug\netcoreapp3.1\04.Inch-To-Centimeters-Converter.deps.json
+C:\Users\wishj\source\repos\Simple-Opearations-And-Calculations\04.Inch-To-Centimeters-Converter\bin\Debug\netcoreapp3.1\04.Inch-To-Centimeters-Converter.runtimeconfig.json
+C:\Users\wishj\source\repos\Simple-Opearations-And-Calculations\04.Inch-To-Centimeters-Converter\bin\Debug\netcoreapp3.1\04.Inch-To-Centimeters-Converter.runtimeconfig.dev.json
+C:\Users\wishj\source\repos\Simple-Opearations-And-Calculations\04.Inch-To-Centimeters-Converter\bin\Debug\netcoreapp3.1\04.Inch-To-Centimeters-Converter.dll
+C:\Users\wishj\source\repos\Simple-Opearations-And-Calculations\04.Inch-To-Centimeters-Converter\bin\Debug\netcoreapp3.1\04.Inch-To-Centimeters-Converter.pdb
+C:\Users\wishj\source\repos\Simple-Opearations-And-Calculations\04.Inch-To-Centimeters-Converter\obj\Debug\netcoreapp3.1\04.Inch-To-Centimeters-Converter.AssemblyInfoInputs.cache
+C:\Users\wishj\source\repos\Simple-Opearations-And-Calculations\04.Inch-To-Centimeters-Converter\obj\Debug\netcoreapp3.1\04.Inch-To-Centimeters-Converter.AssemblyInfo.cs
+C:\Users\wishj\source\repos\Simple-Opearations-And-Calculations\04.Inch-To-Centimeters-Converter\obj\Debug\netcoreapp3.1\04.Inch-To-Centimeters-Converter.csproj.CoreCompileInputs.cache
+C:\Users\wishj\source\repos\Simple-Opearations-And-Calculations\04.Inch-To-Centimeters-Converter\obj\Debug\netcoreapp3.1\04.Inch-To-Centimeters-Converter.dll
+C:\Users\wishj\source\repos\Simple-Opearations-And-Calculations\04.Inch-To-Centimeters-Converter\obj\Debug\netcoreapp3.1\04.Inch-To-Centimeters-Converter.pdb
+C:\Users\wishj\source\repos\Simple-Opearations-And-Calculations\04.Inch-To-Centimeters-Converter\obj\Debug\netcoreapp3.1\04.Inch-To-Centimeters-Converter.genruntimeconfig.cache

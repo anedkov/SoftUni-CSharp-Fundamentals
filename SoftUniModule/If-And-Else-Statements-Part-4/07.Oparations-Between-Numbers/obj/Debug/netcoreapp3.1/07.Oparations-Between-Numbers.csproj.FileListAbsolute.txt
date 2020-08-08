@@ -1,0 +1,12 @@
+C:\Users\wishj\source\repos\If-And-Else-Statements-Part-4\07.Oparations-Between-Numbers\bin\Debug\netcoreapp3.1\07.Oparations-Between-Numbers.exe
+C:\Users\wishj\source\repos\If-And-Else-Statements-Part-4\07.Oparations-Between-Numbers\bin\Debug\netcoreapp3.1\07.Oparations-Between-Numbers.deps.json
+C:\Users\wishj\source\repos\If-And-Else-Statements-Part-4\07.Oparations-Between-Numbers\bin\Debug\netcoreapp3.1\07.Oparations-Between-Numbers.runtimeconfig.json
+C:\Users\wishj\source\repos\If-And-Else-Statements-Part-4\07.Oparations-Between-Numbers\bin\Debug\netcoreapp3.1\07.Oparations-Between-Numbers.runtimeconfig.dev.json
+C:\Users\wishj\source\repos\If-And-Else-Statements-Part-4\07.Oparations-Between-Numbers\bin\Debug\netcoreapp3.1\07.Oparations-Between-Numbers.dll
+C:\Users\wishj\source\repos\If-And-Else-Statements-Part-4\07.Oparations-Between-Numbers\bin\Debug\netcoreapp3.1\07.Oparations-Between-Numbers.pdb
+C:\Users\wishj\source\repos\If-And-Else-Statements-Part-4\07.Oparations-Between-Numbers\obj\Debug\netcoreapp3.1\07.Oparations-Between-Numbers.AssemblyInfoInputs.cache
+C:\Users\wishj\source\repos\If-And-Else-Statements-Part-4\07.Oparations-Between-Numbers\obj\Debug\netcoreapp3.1\07.Oparations-Between-Numbers.AssemblyInfo.cs
+C:\Users\wishj\source\repos\If-And-Else-Statements-Part-4\07.Oparations-Between-Numbers\obj\Debug\netcoreapp3.1\07.Oparations-Between-Numbers.csproj.CoreCompileInputs.cache
+C:\Users\wishj\source\repos\If-And-Else-Statements-Part-4\07.Oparations-Between-Numbers\obj\Debug\netcoreapp3.1\07.Oparations-Between-Numbers.dll
+C:\Users\wishj\source\repos\If-And-Else-Statements-Part-4\07.Oparations-Between-Numbers\obj\Debug\netcoreapp3.1\07.Oparations-Between-Numbers.pdb
+C:\Users\wishj\source\repos\If-And-Else-Statements-Part-4\07.Oparations-Between-Numbers\obj\Debug\netcoreapp3.1\07.Oparations-Between-Numbers.genruntimeconfig.cache

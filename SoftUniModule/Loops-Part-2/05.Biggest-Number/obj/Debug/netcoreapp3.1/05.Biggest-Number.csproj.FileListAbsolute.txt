@@ -1,0 +1,12 @@
+C:\Users\wishj\source\repos\Loops-Part-2\05.Biggest-Number\bin\Debug\netcoreapp3.1\05.Biggest-Number.exe
+C:\Users\wishj\source\repos\Loops-Part-2\05.Biggest-Number\bin\Debug\netcoreapp3.1\05.Biggest-Number.deps.json
+C:\Users\wishj\source\repos\Loops-Part-2\05.Biggest-Number\bin\Debug\netcoreapp3.1\05.Biggest-Number.runtimeconfig.json
+C:\Users\wishj\source\repos\Loops-Part-2\05.Biggest-Number\bin\Debug\netcoreapp3.1\05.Biggest-Number.runtimeconfig.dev.json
+C:\Users\wishj\source\repos\Loops-Part-2\05.Biggest-Number\bin\Debug\netcoreapp3.1\05.Biggest-Number.dll
+C:\Users\wishj\source\repos\Loops-Part-2\05.Biggest-Number\bin\Debug\netcoreapp3.1\05.Biggest-Number.pdb
+C:\Users\wishj\source\repos\Loops-Part-2\05.Biggest-Number\obj\Debug\netcoreapp3.1\05.Biggest-Number.AssemblyInfoInputs.cache
+C:\Users\wishj\source\repos\Loops-Part-2\05.Biggest-Number\obj\Debug\netcoreapp3.1\05.Biggest-Number.AssemblyInfo.cs
+C:\Users\wishj\source\repos\Loops-Part-2\05.Biggest-Number\obj\Debug\netcoreapp3.1\05.Biggest-Number.csproj.CoreCompileInputs.cache
+C:\Users\wishj\source\repos\Loops-Part-2\05.Biggest-Number\obj\Debug\netcoreapp3.1\05.Biggest-Number.dll
+C:\Users\wishj\source\repos\Loops-Part-2\05.Biggest-Number\obj\Debug\netcoreapp3.1\05.Biggest-Number.pdb
+C:\Users\wishj\source\repos\Loops-Part-2\05.Biggest-Number\obj\Debug\netcoreapp3.1\05.Biggest-Number.genruntimeconfig.cache
