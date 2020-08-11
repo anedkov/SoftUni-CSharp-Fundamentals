@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wishj\\source\\repos\\Exercise-Lists\\05.Bomb-Numbers\\05.Bomb-Numbers.csproj",
+      "projectUniqueName": "D:\\VSProjects\\SoftUniFundamentals\\SoftUniModule\\Exercise-Lists\\05.Bomb-Numbers\\05.Bomb-Numbers.csproj",
       "projectName": "05.Bomb-Numbers",
-      "projectPath": "C:\\Users\\wishj\\source\\repos\\Exercise-Lists\\05.Bomb-Numbers\\05.Bomb-Numbers.csproj",
+      "projectPath": "D:\\VSProjects\\SoftUniFundamentals\\SoftUniModule\\Exercise-Lists\\05.Bomb-Numbers\\05.Bomb-Numbers.csproj",
       "packagesPath": "C:\\Users\\wishj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wishj\\source\\repos\\Exercise-Lists\\05.Bomb-Numbers\\obj\\",
+      "outputPath": "D:\\VSProjects\\SoftUniFundamentals\\SoftUniModule\\Exercise-Lists\\05.Bomb-Numbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wishj\\AppData\\Roaming\\NuGet\\NuGet.Config",

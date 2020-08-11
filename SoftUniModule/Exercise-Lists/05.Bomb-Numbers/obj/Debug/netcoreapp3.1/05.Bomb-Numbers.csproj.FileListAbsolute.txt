@@ -1,0 +1,13 @@
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Exercise-Lists\05.Bomb-Numbers\bin\Debug\netcoreapp3.1\05.Bomb-Numbers.exe
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Exercise-Lists\05.Bomb-Numbers\bin\Debug\netcoreapp3.1\05.Bomb-Numbers.deps.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Exercise-Lists\05.Bomb-Numbers\bin\Debug\netcoreapp3.1\05.Bomb-Numbers.runtimeconfig.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Exercise-Lists\05.Bomb-Numbers\bin\Debug\netcoreapp3.1\05.Bomb-Numbers.runtimeconfig.dev.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Exercise-Lists\05.Bomb-Numbers\bin\Debug\netcoreapp3.1\05.Bomb-Numbers.dll
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Exercise-Lists\05.Bomb-Numbers\bin\Debug\netcoreapp3.1\05.Bomb-Numbers.pdb
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Exercise-Lists\05.Bomb-Numbers\obj\Debug\netcoreapp3.1\05.Bomb-Numbers.csprojAssemblyReference.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Exercise-Lists\05.Bomb-Numbers\obj\Debug\netcoreapp3.1\05.Bomb-Numbers.AssemblyInfoInputs.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Exercise-Lists\05.Bomb-Numbers\obj\Debug\netcoreapp3.1\05.Bomb-Numbers.AssemblyInfo.cs
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Exercise-Lists\05.Bomb-Numbers\obj\Debug\netcoreapp3.1\05.Bomb-Numbers.csproj.CoreCompileInputs.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Exercise-Lists\05.Bomb-Numbers\obj\Debug\netcoreapp3.1\05.Bomb-Numbers.dll
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Exercise-Lists\05.Bomb-Numbers\obj\Debug\netcoreapp3.1\05.Bomb-Numbers.pdb
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Exercise-Lists\05.Bomb-Numbers\obj\Debug\netcoreapp3.1\05.Bomb-Numbers.genruntimeconfig.cache
