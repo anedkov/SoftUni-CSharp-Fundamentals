@@ -1,0 +1,13 @@
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Exercise-Lists\10.Soft-Uni-Course-Planer\bin\Debug\netcoreapp3.1\10.Soft-Uni-Course-Planer.exe
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Exercise-Lists\10.Soft-Uni-Course-Planer\bin\Debug\netcoreapp3.1\10.Soft-Uni-Course-Planer.deps.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Exercise-Lists\10.Soft-Uni-Course-Planer\bin\Debug\netcoreapp3.1\10.Soft-Uni-Course-Planer.runtimeconfig.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Exercise-Lists\10.Soft-Uni-Course-Planer\bin\Debug\netcoreapp3.1\10.Soft-Uni-Course-Planer.runtimeconfig.dev.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Exercise-Lists\10.Soft-Uni-Course-Planer\bin\Debug\netcoreapp3.1\10.Soft-Uni-Course-Planer.dll
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Exercise-Lists\10.Soft-Uni-Course-Planer\bin\Debug\netcoreapp3.1\10.Soft-Uni-Course-Planer.pdb
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Exercise-Lists\10.Soft-Uni-Course-Planer\obj\Debug\netcoreapp3.1\10.Soft-Uni-Course-Planer.csprojAssemblyReference.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Exercise-Lists\10.Soft-Uni-Course-Planer\obj\Debug\netcoreapp3.1\10.Soft-Uni-Course-Planer.AssemblyInfoInputs.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Exercise-Lists\10.Soft-Uni-Course-Planer\obj\Debug\netcoreapp3.1\10.Soft-Uni-Course-Planer.AssemblyInfo.cs
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Exercise-Lists\10.Soft-Uni-Course-Planer\obj\Debug\netcoreapp3.1\10.Soft-Uni-Course-Planer.csproj.CoreCompileInputs.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Exercise-Lists\10.Soft-Uni-Course-Planer\obj\Debug\netcoreapp3.1\10.Soft-Uni-Course-Planer.dll
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Exercise-Lists\10.Soft-Uni-Course-Planer\obj\Debug\netcoreapp3.1\10.Soft-Uni-Course-Planer.pdb
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Exercise-Lists\10.Soft-Uni-Course-Planer\obj\Debug\netcoreapp3.1\10.Soft-Uni-Course-Planer.genruntimeconfig.cache
