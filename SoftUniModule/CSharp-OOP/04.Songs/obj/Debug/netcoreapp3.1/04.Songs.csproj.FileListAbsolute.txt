@@ -1,0 +1,13 @@
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\04.Songs\bin\Debug\netcoreapp3.1\04.Songs.exe
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\04.Songs\bin\Debug\netcoreapp3.1\04.Songs.deps.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\04.Songs\bin\Debug\netcoreapp3.1\04.Songs.runtimeconfig.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\04.Songs\bin\Debug\netcoreapp3.1\04.Songs.runtimeconfig.dev.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\04.Songs\bin\Debug\netcoreapp3.1\04.Songs.dll
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\04.Songs\bin\Debug\netcoreapp3.1\04.Songs.pdb
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\04.Songs\obj\Debug\netcoreapp3.1\04.Songs.csprojAssemblyReference.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\04.Songs\obj\Debug\netcoreapp3.1\04.Songs.AssemblyInfoInputs.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\04.Songs\obj\Debug\netcoreapp3.1\04.Songs.AssemblyInfo.cs
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\04.Songs\obj\Debug\netcoreapp3.1\04.Songs.csproj.CoreCompileInputs.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\04.Songs\obj\Debug\netcoreapp3.1\04.Songs.dll
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\04.Songs\obj\Debug\netcoreapp3.1\04.Songs.pdb
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\04.Songs\obj\Debug\netcoreapp3.1\04.Songs.genruntimeconfig.cache

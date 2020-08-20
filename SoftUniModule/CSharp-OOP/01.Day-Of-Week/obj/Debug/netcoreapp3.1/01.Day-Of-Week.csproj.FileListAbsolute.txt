@@ -1,0 +1,13 @@
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\01.Day-Of-Week\bin\Debug\netcoreapp3.1\01.Day-Of-Week.exe
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\01.Day-Of-Week\bin\Debug\netcoreapp3.1\01.Day-Of-Week.deps.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\01.Day-Of-Week\bin\Debug\netcoreapp3.1\01.Day-Of-Week.runtimeconfig.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\01.Day-Of-Week\bin\Debug\netcoreapp3.1\01.Day-Of-Week.runtimeconfig.dev.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\01.Day-Of-Week\bin\Debug\netcoreapp3.1\01.Day-Of-Week.dll
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\01.Day-Of-Week\bin\Debug\netcoreapp3.1\01.Day-Of-Week.pdb
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\01.Day-Of-Week\obj\Debug\netcoreapp3.1\01.Day-Of-Week.csprojAssemblyReference.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\01.Day-Of-Week\obj\Debug\netcoreapp3.1\01.Day-Of-Week.AssemblyInfoInputs.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\01.Day-Of-Week\obj\Debug\netcoreapp3.1\01.Day-Of-Week.AssemblyInfo.cs
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\01.Day-Of-Week\obj\Debug\netcoreapp3.1\01.Day-Of-Week.csproj.CoreCompileInputs.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\01.Day-Of-Week\obj\Debug\netcoreapp3.1\01.Day-Of-Week.dll
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\01.Day-Of-Week\obj\Debug\netcoreapp3.1\01.Day-Of-Week.pdb
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\01.Day-Of-Week\obj\Debug\netcoreapp3.1\01.Day-Of-Week.genruntimeconfig.cache

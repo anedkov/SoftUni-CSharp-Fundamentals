@@ -1,0 +1,13 @@
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\8.Vehcile Catalogue\obj\Debug\netcoreapp3.1\8.Vehcile Catalogue.csprojAssemblyReference.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\8.Vehcile Catalogue\obj\Debug\netcoreapp3.1\8.Vehcile Catalogue.AssemblyInfoInputs.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\8.Vehcile Catalogue\obj\Debug\netcoreapp3.1\8.Vehcile Catalogue.AssemblyInfo.cs
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\8.Vehcile Catalogue\obj\Debug\netcoreapp3.1\8.Vehcile Catalogue.csproj.CoreCompileInputs.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\8.Vehcile Catalogue\bin\Debug\netcoreapp3.1\8.Vehcile Catalogue.exe
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\8.Vehcile Catalogue\bin\Debug\netcoreapp3.1\8.Vehcile Catalogue.deps.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\8.Vehcile Catalogue\bin\Debug\netcoreapp3.1\8.Vehcile Catalogue.runtimeconfig.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\8.Vehcile Catalogue\bin\Debug\netcoreapp3.1\8.Vehcile Catalogue.runtimeconfig.dev.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\8.Vehcile Catalogue\bin\Debug\netcoreapp3.1\8.Vehcile Catalogue.dll
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\8.Vehcile Catalogue\bin\Debug\netcoreapp3.1\8.Vehcile Catalogue.pdb
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\8.Vehcile Catalogue\obj\Debug\netcoreapp3.1\8.Vehcile Catalogue.dll
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\8.Vehcile Catalogue\obj\Debug\netcoreapp3.1\8.Vehcile Catalogue.pdb
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\8.Vehcile Catalogue\obj\Debug\netcoreapp3.1\8.Vehcile Catalogue.genruntimeconfig.cache

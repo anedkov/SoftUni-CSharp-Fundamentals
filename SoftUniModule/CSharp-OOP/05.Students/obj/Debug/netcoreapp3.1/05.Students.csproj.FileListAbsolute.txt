@@ -1,0 +1,12 @@
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\05.Students\bin\Debug\netcoreapp3.1\05.Students.exe
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\05.Students\bin\Debug\netcoreapp3.1\05.Students.deps.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\05.Students\bin\Debug\netcoreapp3.1\05.Students.runtimeconfig.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\05.Students\bin\Debug\netcoreapp3.1\05.Students.runtimeconfig.dev.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\05.Students\bin\Debug\netcoreapp3.1\05.Students.dll
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\05.Students\bin\Debug\netcoreapp3.1\05.Students.pdb
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\05.Students\obj\Debug\netcoreapp3.1\05.Students.AssemblyInfoInputs.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\05.Students\obj\Debug\netcoreapp3.1\05.Students.AssemblyInfo.cs
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\05.Students\obj\Debug\netcoreapp3.1\05.Students.csproj.CoreCompileInputs.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\05.Students\obj\Debug\netcoreapp3.1\05.Students.dll
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\05.Students\obj\Debug\netcoreapp3.1\05.Students.pdb
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\05.Students\obj\Debug\netcoreapp3.1\05.Students.genruntimeconfig.cache

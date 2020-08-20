@@ -1,0 +1,13 @@
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\7.Store-Boxes\obj\Debug\netcoreapp3.1\7.Store-Boxes.csprojAssemblyReference.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\7.Store-Boxes\obj\Debug\netcoreapp3.1\7.Store-Boxes.AssemblyInfoInputs.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\7.Store-Boxes\obj\Debug\netcoreapp3.1\7.Store-Boxes.AssemblyInfo.cs
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\7.Store-Boxes\obj\Debug\netcoreapp3.1\7.Store-Boxes.csproj.CoreCompileInputs.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\7.Store-Boxes\bin\Debug\netcoreapp3.1\7.Store-Boxes.exe
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\7.Store-Boxes\bin\Debug\netcoreapp3.1\7.Store-Boxes.deps.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\7.Store-Boxes\bin\Debug\netcoreapp3.1\7.Store-Boxes.runtimeconfig.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\7.Store-Boxes\bin\Debug\netcoreapp3.1\7.Store-Boxes.runtimeconfig.dev.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\7.Store-Boxes\bin\Debug\netcoreapp3.1\7.Store-Boxes.dll
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\7.Store-Boxes\bin\Debug\netcoreapp3.1\7.Store-Boxes.pdb
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\7.Store-Boxes\obj\Debug\netcoreapp3.1\7.Store-Boxes.dll
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\7.Store-Boxes\obj\Debug\netcoreapp3.1\7.Store-Boxes.pdb
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\7.Store-Boxes\obj\Debug\netcoreapp3.1\7.Store-Boxes.genruntimeconfig.cache

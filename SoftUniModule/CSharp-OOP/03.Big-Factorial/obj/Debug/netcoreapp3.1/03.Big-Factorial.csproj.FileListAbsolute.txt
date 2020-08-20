@@ -1,0 +1,12 @@
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\03.Big-Factorial\bin\Debug\netcoreapp3.1\03.Big-Factorial.exe
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\03.Big-Factorial\bin\Debug\netcoreapp3.1\03.Big-Factorial.deps.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\03.Big-Factorial\bin\Debug\netcoreapp3.1\03.Big-Factorial.runtimeconfig.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\03.Big-Factorial\bin\Debug\netcoreapp3.1\03.Big-Factorial.runtimeconfig.dev.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\03.Big-Factorial\bin\Debug\netcoreapp3.1\03.Big-Factorial.dll
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\03.Big-Factorial\bin\Debug\netcoreapp3.1\03.Big-Factorial.pdb
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\03.Big-Factorial\obj\Debug\netcoreapp3.1\03.Big-Factorial.AssemblyInfoInputs.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\03.Big-Factorial\obj\Debug\netcoreapp3.1\03.Big-Factorial.AssemblyInfo.cs
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\03.Big-Factorial\obj\Debug\netcoreapp3.1\03.Big-Factorial.csproj.CoreCompileInputs.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\03.Big-Factorial\obj\Debug\netcoreapp3.1\03.Big-Factorial.dll
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\03.Big-Factorial\obj\Debug\netcoreapp3.1\03.Big-Factorial.pdb
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP\03.Big-Factorial\obj\Debug\netcoreapp3.1\03.Big-Factorial.genruntimeconfig.cache
