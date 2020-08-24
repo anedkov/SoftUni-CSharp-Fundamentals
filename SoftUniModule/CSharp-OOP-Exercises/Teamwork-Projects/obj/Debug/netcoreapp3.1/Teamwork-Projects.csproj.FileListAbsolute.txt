@@ -1,0 +1,13 @@
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\Teamwork-Projects\bin\Debug\netcoreapp3.1\Teamwork-Projects.exe
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\Teamwork-Projects\bin\Debug\netcoreapp3.1\Teamwork-Projects.deps.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\Teamwork-Projects\bin\Debug\netcoreapp3.1\Teamwork-Projects.runtimeconfig.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\Teamwork-Projects\bin\Debug\netcoreapp3.1\Teamwork-Projects.runtimeconfig.dev.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\Teamwork-Projects\bin\Debug\netcoreapp3.1\Teamwork-Projects.dll
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\Teamwork-Projects\bin\Debug\netcoreapp3.1\Teamwork-Projects.pdb
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\Teamwork-Projects\obj\Debug\netcoreapp3.1\Teamwork-Projects.csprojAssemblyReference.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\Teamwork-Projects\obj\Debug\netcoreapp3.1\Teamwork-Projects.AssemblyInfoInputs.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\Teamwork-Projects\obj\Debug\netcoreapp3.1\Teamwork-Projects.AssemblyInfo.cs
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\Teamwork-Projects\obj\Debug\netcoreapp3.1\Teamwork-Projects.csproj.CoreCompileInputs.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\Teamwork-Projects\obj\Debug\netcoreapp3.1\Teamwork-Projects.dll
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\Teamwork-Projects\obj\Debug\netcoreapp3.1\Teamwork-Projects.pdb
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\Teamwork-Projects\obj\Debug\netcoreapp3.1\Teamwork-Projects.genruntimeconfig.cache

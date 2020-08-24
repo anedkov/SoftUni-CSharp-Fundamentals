@@ -1,0 +1,12 @@
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\OrderByAge\bin\Debug\netcoreapp3.1\OrderByAge.exe
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\OrderByAge\bin\Debug\netcoreapp3.1\OrderByAge.deps.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\OrderByAge\bin\Debug\netcoreapp3.1\OrderByAge.runtimeconfig.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\OrderByAge\bin\Debug\netcoreapp3.1\OrderByAge.runtimeconfig.dev.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\OrderByAge\bin\Debug\netcoreapp3.1\OrderByAge.dll
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\OrderByAge\bin\Debug\netcoreapp3.1\OrderByAge.pdb
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\OrderByAge\obj\Debug\netcoreapp3.1\OrderByAge.AssemblyInfoInputs.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\OrderByAge\obj\Debug\netcoreapp3.1\OrderByAge.AssemblyInfo.cs
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\OrderByAge\obj\Debug\netcoreapp3.1\OrderByAge.csproj.CoreCompileInputs.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\OrderByAge\obj\Debug\netcoreapp3.1\OrderByAge.dll
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\OrderByAge\obj\Debug\netcoreapp3.1\OrderByAge.pdb
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\OrderByAge\obj\Debug\netcoreapp3.1\OrderByAge.genruntimeconfig.cache

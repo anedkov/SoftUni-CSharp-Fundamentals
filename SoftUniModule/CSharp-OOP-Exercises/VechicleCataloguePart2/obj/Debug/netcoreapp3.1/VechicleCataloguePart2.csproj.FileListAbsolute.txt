@@ -1,0 +1,13 @@
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\VechicleCataloguePart2\bin\Debug\netcoreapp3.1\VechicleCataloguePart2.exe
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\VechicleCataloguePart2\bin\Debug\netcoreapp3.1\VechicleCataloguePart2.deps.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\VechicleCataloguePart2\bin\Debug\netcoreapp3.1\VechicleCataloguePart2.runtimeconfig.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\VechicleCataloguePart2\bin\Debug\netcoreapp3.1\VechicleCataloguePart2.runtimeconfig.dev.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\VechicleCataloguePart2\bin\Debug\netcoreapp3.1\VechicleCataloguePart2.dll
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\VechicleCataloguePart2\bin\Debug\netcoreapp3.1\VechicleCataloguePart2.pdb
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\VechicleCataloguePart2\obj\Debug\netcoreapp3.1\VechicleCataloguePart2.csprojAssemblyReference.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\VechicleCataloguePart2\obj\Debug\netcoreapp3.1\VechicleCataloguePart2.AssemblyInfoInputs.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\VechicleCataloguePart2\obj\Debug\netcoreapp3.1\VechicleCataloguePart2.AssemblyInfo.cs
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\VechicleCataloguePart2\obj\Debug\netcoreapp3.1\VechicleCataloguePart2.csproj.CoreCompileInputs.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\VechicleCataloguePart2\obj\Debug\netcoreapp3.1\VechicleCataloguePart2.dll
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\VechicleCataloguePart2\obj\Debug\netcoreapp3.1\VechicleCataloguePart2.pdb
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\VechicleCataloguePart2\obj\Debug\netcoreapp3.1\VechicleCataloguePart2.genruntimeconfig.cache

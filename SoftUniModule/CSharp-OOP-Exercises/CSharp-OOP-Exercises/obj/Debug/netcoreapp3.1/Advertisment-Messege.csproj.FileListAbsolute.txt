@@ -1,0 +1,12 @@
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\CSharp-OOP-Exercises\bin\Debug\netcoreapp3.1\Advertisment-Messege.exe
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\CSharp-OOP-Exercises\bin\Debug\netcoreapp3.1\Advertisment-Messege.deps.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\CSharp-OOP-Exercises\bin\Debug\netcoreapp3.1\Advertisment-Messege.runtimeconfig.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\CSharp-OOP-Exercises\bin\Debug\netcoreapp3.1\Advertisment-Messege.runtimeconfig.dev.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\CSharp-OOP-Exercises\bin\Debug\netcoreapp3.1\Advertisment-Messege.dll
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\CSharp-OOP-Exercises\bin\Debug\netcoreapp3.1\Advertisment-Messege.pdb
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\CSharp-OOP-Exercises\obj\Debug\netcoreapp3.1\Advertisment-Messege.AssemblyInfoInputs.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\CSharp-OOP-Exercises\obj\Debug\netcoreapp3.1\Advertisment-Messege.AssemblyInfo.cs
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\CSharp-OOP-Exercises\obj\Debug\netcoreapp3.1\Advertisment-Messege.csproj.CoreCompileInputs.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\CSharp-OOP-Exercises\obj\Debug\netcoreapp3.1\Advertisment-Messege.dll
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\CSharp-OOP-Exercises\obj\Debug\netcoreapp3.1\Advertisment-Messege.pdb
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\CSharp-OOP-Exercises\obj\Debug\netcoreapp3.1\Advertisment-Messege.genruntimeconfig.cache

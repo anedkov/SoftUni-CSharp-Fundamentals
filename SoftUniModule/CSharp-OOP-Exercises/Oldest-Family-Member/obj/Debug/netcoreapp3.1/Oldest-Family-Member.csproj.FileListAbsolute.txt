@@ -1,0 +1,12 @@
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\Oldest-Family-Member\bin\Debug\netcoreapp3.1\Oldest-Family-Member.exe
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\Oldest-Family-Member\bin\Debug\netcoreapp3.1\Oldest-Family-Member.deps.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\Oldest-Family-Member\bin\Debug\netcoreapp3.1\Oldest-Family-Member.runtimeconfig.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\Oldest-Family-Member\bin\Debug\netcoreapp3.1\Oldest-Family-Member.runtimeconfig.dev.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\Oldest-Family-Member\bin\Debug\netcoreapp3.1\Oldest-Family-Member.dll
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\Oldest-Family-Member\bin\Debug\netcoreapp3.1\Oldest-Family-Member.pdb
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\Oldest-Family-Member\obj\Debug\netcoreapp3.1\Oldest-Family-Member.AssemblyInfoInputs.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\Oldest-Family-Member\obj\Debug\netcoreapp3.1\Oldest-Family-Member.AssemblyInfo.cs
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\Oldest-Family-Member\obj\Debug\netcoreapp3.1\Oldest-Family-Member.csproj.CoreCompileInputs.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\Oldest-Family-Member\obj\Debug\netcoreapp3.1\Oldest-Family-Member.dll
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\Oldest-Family-Member\obj\Debug\netcoreapp3.1\Oldest-Family-Member.pdb
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\Oldest-Family-Member\obj\Debug\netcoreapp3.1\Oldest-Family-Member.genruntimeconfig.cache

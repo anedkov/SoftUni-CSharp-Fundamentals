@@ -1,0 +1,13 @@
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\Company-Roster\bin\Debug\netcoreapp3.1\Company-Roster.exe
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\Company-Roster\bin\Debug\netcoreapp3.1\Company-Roster.deps.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\Company-Roster\bin\Debug\netcoreapp3.1\Company-Roster.runtimeconfig.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\Company-Roster\bin\Debug\netcoreapp3.1\Company-Roster.runtimeconfig.dev.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\Company-Roster\bin\Debug\netcoreapp3.1\Company-Roster.dll
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\Company-Roster\bin\Debug\netcoreapp3.1\Company-Roster.pdb
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\Company-Roster\obj\Debug\netcoreapp3.1\Company-Roster.csprojAssemblyReference.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\Company-Roster\obj\Debug\netcoreapp3.1\Company-Roster.AssemblyInfoInputs.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\Company-Roster\obj\Debug\netcoreapp3.1\Company-Roster.AssemblyInfo.cs
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\Company-Roster\obj\Debug\netcoreapp3.1\Company-Roster.csproj.CoreCompileInputs.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\Company-Roster\obj\Debug\netcoreapp3.1\Company-Roster.dll
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\Company-Roster\obj\Debug\netcoreapp3.1\Company-Roster.pdb
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Exercises\Company-Roster\obj\Debug\netcoreapp3.1\Company-Roster.genruntimeconfig.cache
