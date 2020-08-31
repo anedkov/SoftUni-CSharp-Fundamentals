@@ -1,0 +1,13 @@
+D:\VSProjects\Labs\Animals\obj\Debug\netcoreapp3.1\Animals.csprojAssemblyReference.cache
+D:\VSProjects\Labs\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfoInputs.cache
+D:\VSProjects\Labs\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfo.cs
+D:\VSProjects\Labs\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.CoreCompileInputs.cache
+D:\VSProjects\Labs\Animals\bin\Debug\netcoreapp3.1\Animals.exe
+D:\VSProjects\Labs\Animals\bin\Debug\netcoreapp3.1\Animals.deps.json
+D:\VSProjects\Labs\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.json
+D:\VSProjects\Labs\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.dev.json
+D:\VSProjects\Labs\Animals\bin\Debug\netcoreapp3.1\Animals.dll
+D:\VSProjects\Labs\Animals\bin\Debug\netcoreapp3.1\Animals.pdb
+D:\VSProjects\Labs\Animals\obj\Debug\netcoreapp3.1\Animals.dll
+D:\VSProjects\Labs\Animals\obj\Debug\netcoreapp3.1\Animals.pdb
+D:\VSProjects\Labs\Animals\obj\Debug\netcoreapp3.1\Animals.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Inheritance-Exercise\01.Person\bin\Debug\netcoreapp3.1\01.Person.exe
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Inheritance-Exercise\01.Person\bin\Debug\netcoreapp3.1\01.Person.deps.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Inheritance-Exercise\01.Person\bin\Debug\netcoreapp3.1\01.Person.runtimeconfig.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Inheritance-Exercise\01.Person\bin\Debug\netcoreapp3.1\01.Person.runtimeconfig.dev.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Inheritance-Exercise\01.Person\bin\Debug\netcoreapp3.1\01.Person.dll
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Inheritance-Exercise\01.Person\bin\Debug\netcoreapp3.1\01.Person.pdb
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Inheritance-Exercise\01.Person\obj\Debug\netcoreapp3.1\01.Person.csprojAssemblyReference.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Inheritance-Exercise\01.Person\obj\Debug\netcoreapp3.1\01.Person.AssemblyInfoInputs.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Inheritance-Exercise\01.Person\obj\Debug\netcoreapp3.1\01.Person.AssemblyInfo.cs
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Inheritance-Exercise\01.Person\obj\Debug\netcoreapp3.1\01.Person.csproj.CoreCompileInputs.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Inheritance-Exercise\01.Person\obj\Debug\netcoreapp3.1\01.Person.dll
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Inheritance-Exercise\01.Person\obj\Debug\netcoreapp3.1\01.Person.pdb
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Inheritance-Exercise\01.Person\obj\Debug\netcoreapp3.1\01.Person.genruntimeconfig.cache

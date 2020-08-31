@@ -1,0 +1,12 @@
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Encapsulation\04.First-And-Reserve-Team\obj\Debug\netcoreapp3.1\04.First-And-Reserve-Team.AssemblyInfoInputs.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Encapsulation\04.First-And-Reserve-Team\obj\Debug\netcoreapp3.1\04.First-And-Reserve-Team.AssemblyInfo.cs
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Encapsulation\04.First-And-Reserve-Team\obj\Debug\netcoreapp3.1\04.First-And-Reserve-Team.csproj.CoreCompileInputs.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Encapsulation\04.First-And-Reserve-Team\bin\Debug\netcoreapp3.1\04.First-And-Reserve-Team.exe
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Encapsulation\04.First-And-Reserve-Team\bin\Debug\netcoreapp3.1\04.First-And-Reserve-Team.deps.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Encapsulation\04.First-And-Reserve-Team\bin\Debug\netcoreapp3.1\04.First-And-Reserve-Team.runtimeconfig.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Encapsulation\04.First-And-Reserve-Team\bin\Debug\netcoreapp3.1\04.First-And-Reserve-Team.runtimeconfig.dev.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Encapsulation\04.First-And-Reserve-Team\bin\Debug\netcoreapp3.1\04.First-And-Reserve-Team.dll
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Encapsulation\04.First-And-Reserve-Team\bin\Debug\netcoreapp3.1\04.First-And-Reserve-Team.pdb
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Encapsulation\04.First-And-Reserve-Team\obj\Debug\netcoreapp3.1\04.First-And-Reserve-Team.dll
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Encapsulation\04.First-And-Reserve-Team\obj\Debug\netcoreapp3.1\04.First-And-Reserve-Team.pdb
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Encapsulation\04.First-And-Reserve-Team\obj\Debug\netcoreapp3.1\04.First-And-Reserve-Team.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Inheritance-Exercise\03.Players-And-Monsters\bin\Debug\netcoreapp3.1\03.Players-And-Monsters.exe
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Inheritance-Exercise\03.Players-And-Monsters\bin\Debug\netcoreapp3.1\03.Players-And-Monsters.deps.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Inheritance-Exercise\03.Players-And-Monsters\bin\Debug\netcoreapp3.1\03.Players-And-Monsters.runtimeconfig.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Inheritance-Exercise\03.Players-And-Monsters\bin\Debug\netcoreapp3.1\03.Players-And-Monsters.runtimeconfig.dev.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Inheritance-Exercise\03.Players-And-Monsters\bin\Debug\netcoreapp3.1\03.Players-And-Monsters.dll
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Inheritance-Exercise\03.Players-And-Monsters\bin\Debug\netcoreapp3.1\03.Players-And-Monsters.pdb
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Inheritance-Exercise\03.Players-And-Monsters\obj\Debug\netcoreapp3.1\03.Players-And-Monsters.csprojAssemblyReference.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Inheritance-Exercise\03.Players-And-Monsters\obj\Debug\netcoreapp3.1\03.Players-And-Monsters.AssemblyInfoInputs.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Inheritance-Exercise\03.Players-And-Monsters\obj\Debug\netcoreapp3.1\03.Players-And-Monsters.AssemblyInfo.cs
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Inheritance-Exercise\03.Players-And-Monsters\obj\Debug\netcoreapp3.1\03.Players-And-Monsters.csproj.CoreCompileInputs.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Inheritance-Exercise\03.Players-And-Monsters\obj\Debug\netcoreapp3.1\03.Players-And-Monsters.dll
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Inheritance-Exercise\03.Players-And-Monsters\obj\Debug\netcoreapp3.1\03.Players-And-Monsters.pdb
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Inheritance-Exercise\03.Players-And-Monsters\obj\Debug\netcoreapp3.1\03.Players-And-Monsters.genruntimeconfig.cache

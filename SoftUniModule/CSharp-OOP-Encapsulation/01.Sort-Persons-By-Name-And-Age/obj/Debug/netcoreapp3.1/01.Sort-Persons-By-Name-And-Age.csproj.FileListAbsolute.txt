@@ -1,0 +1,13 @@
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Encapsulation\01.Sort-Persons-By-Name-And-Age\bin\Debug\netcoreapp3.1\01.Sort-Persons-By-Name-And-Age.exe
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Encapsulation\01.Sort-Persons-By-Name-And-Age\bin\Debug\netcoreapp3.1\01.Sort-Persons-By-Name-And-Age.deps.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Encapsulation\01.Sort-Persons-By-Name-And-Age\bin\Debug\netcoreapp3.1\01.Sort-Persons-By-Name-And-Age.runtimeconfig.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Encapsulation\01.Sort-Persons-By-Name-And-Age\bin\Debug\netcoreapp3.1\01.Sort-Persons-By-Name-And-Age.runtimeconfig.dev.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Encapsulation\01.Sort-Persons-By-Name-And-Age\bin\Debug\netcoreapp3.1\01.Sort-Persons-By-Name-And-Age.dll
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Encapsulation\01.Sort-Persons-By-Name-And-Age\bin\Debug\netcoreapp3.1\01.Sort-Persons-By-Name-And-Age.pdb
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Encapsulation\01.Sort-Persons-By-Name-And-Age\obj\Debug\netcoreapp3.1\01.Sort-Persons-By-Name-And-Age.csprojAssemblyReference.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Encapsulation\01.Sort-Persons-By-Name-And-Age\obj\Debug\netcoreapp3.1\01.Sort-Persons-By-Name-And-Age.AssemblyInfoInputs.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Encapsulation\01.Sort-Persons-By-Name-And-Age\obj\Debug\netcoreapp3.1\01.Sort-Persons-By-Name-And-Age.AssemblyInfo.cs
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Encapsulation\01.Sort-Persons-By-Name-And-Age\obj\Debug\netcoreapp3.1\01.Sort-Persons-By-Name-And-Age.csproj.CoreCompileInputs.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Encapsulation\01.Sort-Persons-By-Name-And-Age\obj\Debug\netcoreapp3.1\01.Sort-Persons-By-Name-And-Age.dll
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Encapsulation\01.Sort-Persons-By-Name-And-Age\obj\Debug\netcoreapp3.1\01.Sort-Persons-By-Name-And-Age.pdb
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\CSharp-OOP-Encapsulation\01.Sort-Persons-By-Name-And-Age\obj\Debug\netcoreapp3.1\01.Sort-Persons-By-Name-And-Age.genruntimeconfig.cache
