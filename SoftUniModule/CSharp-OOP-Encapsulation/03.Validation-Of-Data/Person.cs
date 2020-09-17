@@ -35,7 +35,7 @@ namespace _03.Validation_Of_Data
         {
             get => this.secondName;
 
-            set
+           private set
             {
                 CommonValidator.ValidateNull(value, nameof(Person), nameof(this.SecondName));
                 CommonValidator.ValidateMinimum(value.Length, 3, nameof(Person), nameof(this.SecondName));
