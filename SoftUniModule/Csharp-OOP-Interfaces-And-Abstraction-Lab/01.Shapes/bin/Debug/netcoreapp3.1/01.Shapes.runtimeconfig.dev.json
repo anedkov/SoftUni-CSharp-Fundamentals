@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\wishj\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\wishj\\.nuget\\packages"
+    ]
+  }
+}

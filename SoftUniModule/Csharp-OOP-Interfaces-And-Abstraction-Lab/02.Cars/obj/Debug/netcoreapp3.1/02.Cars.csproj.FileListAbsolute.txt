@@ -1,0 +1,13 @@
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Csharp-OOP-Interfaces-And-Abstraction-Lab\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.csprojAssemblyReference.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Csharp-OOP-Interfaces-And-Abstraction-Lab\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.AssemblyInfoInputs.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Csharp-OOP-Interfaces-And-Abstraction-Lab\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.AssemblyInfo.cs
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Csharp-OOP-Interfaces-And-Abstraction-Lab\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.csproj.CoreCompileInputs.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Csharp-OOP-Interfaces-And-Abstraction-Lab\02.Cars\bin\Debug\netcoreapp3.1\02.Cars.exe
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Csharp-OOP-Interfaces-And-Abstraction-Lab\02.Cars\bin\Debug\netcoreapp3.1\02.Cars.deps.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Csharp-OOP-Interfaces-And-Abstraction-Lab\02.Cars\bin\Debug\netcoreapp3.1\02.Cars.runtimeconfig.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Csharp-OOP-Interfaces-And-Abstraction-Lab\02.Cars\bin\Debug\netcoreapp3.1\02.Cars.runtimeconfig.dev.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Csharp-OOP-Interfaces-And-Abstraction-Lab\02.Cars\bin\Debug\netcoreapp3.1\02.Cars.dll
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Csharp-OOP-Interfaces-And-Abstraction-Lab\02.Cars\bin\Debug\netcoreapp3.1\02.Cars.pdb
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Csharp-OOP-Interfaces-And-Abstraction-Lab\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.dll
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Csharp-OOP-Interfaces-And-Abstraction-Lab\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.pdb
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Csharp-OOP-Interfaces-And-Abstraction-Lab\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Csharp-OOP-Interfaces-And-Abstraction-Lab\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.csprojAssemblyReference.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Csharp-OOP-Interfaces-And-Abstraction-Lab\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.AssemblyInfoInputs.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Csharp-OOP-Interfaces-And-Abstraction-Lab\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.AssemblyInfo.cs
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Csharp-OOP-Interfaces-And-Abstraction-Lab\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.csproj.CoreCompileInputs.cache
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Csharp-OOP-Interfaces-And-Abstraction-Lab\01.Shapes\bin\Debug\netcoreapp3.1\01.Shapes.exe
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Csharp-OOP-Interfaces-And-Abstraction-Lab\01.Shapes\bin\Debug\netcoreapp3.1\01.Shapes.deps.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Csharp-OOP-Interfaces-And-Abstraction-Lab\01.Shapes\bin\Debug\netcoreapp3.1\01.Shapes.runtimeconfig.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Csharp-OOP-Interfaces-And-Abstraction-Lab\01.Shapes\bin\Debug\netcoreapp3.1\01.Shapes.runtimeconfig.dev.json
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Csharp-OOP-Interfaces-And-Abstraction-Lab\01.Shapes\bin\Debug\netcoreapp3.1\01.Shapes.dll
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Csharp-OOP-Interfaces-And-Abstraction-Lab\01.Shapes\bin\Debug\netcoreapp3.1\01.Shapes.pdb
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Csharp-OOP-Interfaces-And-Abstraction-Lab\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.dll
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Csharp-OOP-Interfaces-And-Abstraction-Lab\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.pdb
+D:\VSProjects\SoftUniFundamentals\SoftUniModule\Csharp-OOP-Interfaces-And-Abstraction-Lab\01.Shapes\obj\Debug\netcoreapp3.1\01.Shapes.genruntimeconfig.cache
